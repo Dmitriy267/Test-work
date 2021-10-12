@@ -1,0 +1,1385 @@
+
+@media screen and (max-width: 1920px){
+  div {
+  box-sizing: border-box; }
+p {
+  font-family: Roboto, sans-serif; }
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+ width:19200px;
+    margin: 0 auto;
+    background-color: #202024;
+
+}  
+    .header {
+    width: 1920px;
+    height: 75px;
+}
+    .header p {
+    font-size: 16px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.6);
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    width: 515.6px;
+    height: 19.1px;
+    margin-top: 36.46px;
+    margin-left: 658px;
+    margin-bottom: 19.45px;
+}
+    .header hr {
+    margin: 0px;
+    width: 1440px;
+    height: 0px;
+}
+    first-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 11.8px;
+}
+    .first-section_text__top {
+    font-size: 25px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+        line-height: 29px;
+    letter-spacing: 0.1em;
+    margin-bottom: 0px;
+    width: 515.6px;
+    height: 29.51px;
+    margin-top: 0px;
+}
+    .first-section_img__bottom {
+    width: 390.6px;
+    opacity: 0.2;
+    position: absolute;
+    left: 721.83px;
+    top: 157.98px;
+}
+    .first-section_img__top {
+    width: 237.83px;
+    height: 237.83px;
+    border-radius: 50%;
+    position: absolute;
+    left: 798.22px;
+    top: 234.36px;
+}
+    .first-section_blick-image {
+    position: absolute;
+    top: -156px;
+    width: 1920px;
+    height: 1098px;
+    z-index: -1;
+}
+    .first-section_questions-text {
+    color: #F6C866;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 35px;
+    width: 499.97px;
+    height: 130.2px;
+    margin-top: 432.27px;
+    margin-bottom: 39.93px;
+    text-align: center;
+}
+    button {
+    border-radius: 50px;
+    width: 310.75px;
+    height: 69.44px;
+    background: linear-gradient(
+90deg, rgba(246, 200, 102, 0.9) -6.2%, rgba(254, 173, 53, 0.9) 100%);
+    margin-bottom: 34.72px;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #fff;
+}
+    .first-section_text__bottom {
+    font-size: 16px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.6);
+    line-height: 19px;
+    letter-spacing: 0.1em;
+    margin: 0px;
+    width: 473.93px;
+    height: 60.76px;
+    text-align: center;
+}
+    .second-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+    .second-section_block {
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    width: 442.68px;
+    height: 437.48px;
+    margin-top: 100.69px;
+}
+    .second-section_block img {
+    width: 135.41px;
+    height: 135.41px;
+    margin-left: 848px;
+    margin-top: -67.7px;
+}
+    .second-section_block p {
+    color: #fff;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 35px;
+    text-align: center;
+    width: 365px;
+    height: 255px;
+    margin-top: 53.87px;
+    margin-bottom: 0px;
+}
+    .text-span__yellow {
+    color: #F6C866;
+}
+    .third-section {
+    height: 606px;
+    margin-top: 69.04px;
+    width: 1440px;
+}
+    .third-section img {
+    height: 606px;
+    width: 1440px;
+    background-color: rgba(0, 162, 255, 0);
+    opacity: 0.6;
+        margin-left: 196px;
+}
+    .third-section p {
+    width: 380.19px;
+    height: 258.67px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: normal;
+    position: absolute;
+    top: 1835px;
+    left: 727.04px;
+    color: #fff;
+    opacity: 0.6;
+}
+    .fourth-section {
+    margin-top: 133px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+    .fourth-section_text-question {
+    text-transform: uppercase;
+    color: #F6C866;
+    font-size: 25px;
+    line-height: 29px;
+    width: 499.97px;
+    height: 32.98px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 46.87px;
+}
+    .fourth-section_number-question__first {
+    margin: 0px;
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0.1em;
+}
+    .five-section {
+    margin-top: 105.9px;
+    display: flex;
+    flex-direction: column;
+}
+    .five-section_block-image__first {
+    position: absolute;
+    top: 2648.83px;
+    left: 1449.13px;
+    transform: rotate( 
+-9.61deg);
+}
+    .five-section_block {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+    .five-section_block p {
+    font-family: Bad Script;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: normal;
+    color: #fff;
+    text-align: center;
+    width: 407.96px;
+    height: 145.83px;
+    margin-left: 0px;
+    margin-top: 80.23px;
+    margin-bottom: 41.73px;
+}
+    .five-section_block-image__last {
+    position: absolute;
+    top: 2999px;
+    left: 153px;
+}
+    .footer {
+    margin-top: 48.05px;
+    display: block;
+}
+    footer p {
+    display: none;
+}
+    
+}
+
+
+
+
+@media screen and (max-width: 1440px){
+div {
+  box-sizing: border-box; }
+p {
+  font-family: Roboto, sans-serif; }
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+ width:1440px;
+    margin: 0 auto;
+    background-color: #202024;
+
+}
+ .header{
+     width: 1440px;
+        height: 75px;
+       
+    }
+    .header p{
+        font-size: 16px;
+        font-weight: 300;
+        color:rgba(255, 255, 255, 0.6);
+        line-height: 19px;
+       letter-spacing: 0.1em;
+        text-align: center;
+        width: 515.6px;
+height: 19.1px;
+        margin-top: 36.46px;
+        margin-left: 462px;
+        margin-bottom: 19.45px;
+    }
+    hr{
+        border:1px solid rgba(255, 255, 255, 0.2);
+    }
+     .header hr{
+     margin: 0px;
+       width: 1440px;
+height: 0px;       
+    }
+
+.first-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 11.8px;
+    }
+    .first-section_text__top{
+        font-size: 25px;
+        font-weight: 300;
+        color:rgba(255, 255, 255, 0.6);
+        text-align: center;
+        line-height: 104px;
+        letter-spacing: 0.1em;
+        margin-bottom: 0px;
+        width: 515.6px;
+        height: 29.51px;
+        margin-top: 0px;
+    }
+.first-section_img__bottom{
+  width: 390.6px;
+    opacity: 0.2;
+   position: absolute;
+    left: 525.83px;
+top: 157.98px;
+}
+.first-section_img__top{
+    width: 237.83px;
+height: 237.83px;
+    border-radius: 50%;
+    position: absolute;
+    left: 602.22px;
+top: 234.36px;
+}
+.first-section_blick-image{
+  position: absolute;
+top: -156px;
+    width: 1440px;
+    height: 1019px;
+    z-index: -1;
+}
+
+ .first-section_questions-text{
+        color:#F6C866;
+        font-size: 25px;
+        font-weight: normal;
+        line-height: 35px;
+        width: 499.97px;
+        height: 130.2px;
+        margin-top: 433.27px;
+        margin-bottom: 39.93px;
+        text-align: center;
+    }
+.first-section_questions-text__great{
+        text-transform: uppercase;
+    }
+
+  button{
+        border-radius: 50px;
+        width:310.75px;
+        height: 69.44px;
+        background: linear-gradient(90deg, rgba(246, 200, 102, 0.9) -6.2%, rgba(254, 173, 53, 0.9) 100%);
+        margin-bottom: 34.72px;
+        font-size: 20px;
+      line-height: 23px;
+        text-align: center;
+        color: #fff;
+    }
+
+ .first-section_text__bottom{
+         font-size: 16px;
+        font-weight: 300;
+        color:rgba(255, 255, 255, 0.6);
+        line-height: 19px;
+       letter-spacing: 0.1em;
+        margin: 0px;
+        width:473.93px;
+        height: 60.76px;
+        text-align: center;
+    }
+ .second-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .second-section_block{
+        border: 1px solid #FFFFFF;
+        border-radius: 3px;
+        width: 442.68px;
+        height: 437.48px;
+        margin-top: 196.17px;
+    }
+.second-section_block img{
+        width: 135.41px;
+    height: 135.41px;
+        margin-left: 153px;
+        margin-top: -67.7px;
+        
+    }
+    .second-section_block p{
+        color:#fff;
+        font-size: 25px;
+        font-weight: normal;
+        line-height: 35px;
+        text-align: center;
+        width: 365px;
+        height: 255px;
+        margin-top: 53.87px;
+        margin-bottom: 0px;
+        margin-left: 32px;
+    }
+    .text-span__yellow{
+        color:#F6C866;
+    }
+     .third-section{
+        height: 606px;
+        margin-top: 69.04px;
+         width: 1440px;
+    }
+    .third-section img{
+        height: 606px;
+        width: 1440px;
+        background-color: rgba(0, 162, 255, 0);
+        opacity: 0.6;
+          margin-left: 0px;
+    }
+    .third-section p{
+        width: 380.19px;
+        height: 258.67px;
+        text-align: center;
+        font-size: 25px;
+         line-height: 35px;
+        font-weight: normal;
+        position: absolute;
+        top:1835px;
+        left:531.04px;
+        color: #fff;
+        opacity: 1;
+    }
+    .fourth-section{
+        margin-top: 133px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .fourth-section_text-question{
+        text-transform: uppercase;
+        color:#F6C866;
+        font-size: 25px;
+        line-height: 29px;
+        width:499.97px;
+        height: 32.98px;
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 46.87px;
+        
+    }
+    .fourth-section_number-question__first{
+        margin:0px;
+      color: rgba(255, 255, 255, 0.6);
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 19px;
+        letter-spacing: 0.1em;
+    }
+     .five-section{
+        margin-top: 105.9px;
+        display: flex;
+        flex-direction: column;
+    
+    }
+    .five-section_block{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .five-section_block p{
+       font-family: Bad Script;
+        font-size: 25px;
+        line-height: 35px;
+        font-weight: normal;
+        color:#fff;
+        text-align: center;
+        width: 407.96px;
+        height: 145.83px;
+        margin-left: 0px;
+        margin-top: 80.23px;
+        margin-bottom: 41.78px;
+    }
+    .five-section_block-image__first{
+        position: absolute;
+        top:2698.4px;
+        left: 1253.13px;
+        transform: rotate(-9.61deg);
+
+    }
+    
+    .five-section_block-image__last{
+        position: absolute;
+       top:2999px;
+        left:-43px;
+    }
+     .footer{
+       margin-top: 48.05px;
+        
+    }
+    .footer p{
+        display: none;
+    }
+    
+     .header-ifone3{
+        display: block;
+    }
+    
+    .header-ifone3 p{
+        font-family: Bad Script;
+        font-weight: normal;
+        font-size: 25px;
+        color:#fff;
+        opacity: 0.6;
+        text-align: center;
+        line-height: 35px;
+        width: 411px;
+        height: 139px;
+        margin: 0px;
+        padding-top: 48px;
+        padding-left: 500.17px;
+        padding-bottom: 37px;
+    
+    }
+    .header-ifone3 hr{
+        margin: 0px;
+           width: 1440px;
+height: 0px; 
+    }
+    
+     .header-ifone3 img{
+        position: absolute;
+         top:149.29px;
+         left:874.29px;
+         transform: rotate(-9.61deg);
+         width: 146.06px;
+height: 77.06px;
+    }
+    .ifone3-section, .ifone4-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 74px;
+}
+    .ifone3-section p {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: #F6C866;
+    margin-top: 0px;
+    width: 503px;
+    height: 88px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    text-align: center;
+}
+    .ifone3-footer {
+    display: block;
+    margin-top: 183.79px;
+    margin-bottom: 0px;
+}
+    .ifone3-footer img {
+    position: absolute;
+    top: 849.66px;
+    left: 408px;
+        width: 90.81px;
+        height: 90.73px;
+}
+    .ifone3-footer p {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+      .ifone13-header{
+        margin-top: 54px;
+        margin-left: 480px;
+        width: 480px;
+        height: 164.43px;
+        background-color: #fff;
+        border-radius: 5px;
+    }
+    
+.ifone13-header p{
+width: 446px;
+height: 120px;
+font-weight: normal;
+font-size: 25px;
+line-height: 35px;
+    text-align: center;
+    margin: 11px 17px 33.43px 17px;
+    padding: 0px
+    }
+    .ifone13-header_span{
+        font-weight: bold;
+    }
+    .ifone13-header_div{
+        width: 31.51px;
+height: 33.28px;
+        background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+    }
+    .ifone13-section__first {
+    margin-top: 35.57px;
+    margin-left: 509px;
+    width: 422px;
+    height: 126px;
+}
+    .ifone13-section__first p {
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+    margin: 0px;
+}
+    .ifone13-section__second {
+    width: 480px;
+    height: 286px;
+    margin-left: 480px;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+}
+    .ifone13-section__second p {
+    width: 380px;
+    height: 184px;
+    margin: 64px 50px 38px 50px;
+    padding: 0px;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: #F6C866;
+    }
+    .ifone13-section__second span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+    .ifone13-section__third {
+    margin-top: 31px;
+    margin-left: 486px;
+    width: 469px;
+    height: 107px;
+}
+    .ifone13-section__third p {
+    margin: 0px;
+    width: 469px;
+    height: 107px;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+}
+    .ifone13-button {
+    width: 395.07px;
+    height: 79.67px;
+    margin-left: 525.62px;
+    margin-top: 34.43px;
+    margin-bottom: 52.9px;
+    background: linear-gradient(
+90deg, rgba(76, 217, 100, 0.9) -6.2%, rgba(50, 185, 73, 0.9) 100%);
+    border-radius: 50px;
+}
+    .my_result {
+    margin-top: 30px;
+    margin-left: 480px;
+    width: 480px;
+    height: auto;
+}
+    .my_result p {
+    text-align: center;
+    color: #F6C866;
+    font-size: 25px;
+    width: 460px;
+}
+    
+    .third-section p {
+    width: 380.19px;
+    height: 258.67px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: normal;
+    position: absolute;
+    top: 1835px;
+    left: 531.04px;
+    color: #fff;
+    opacity: 0.6;
+}
+    
+    .five-section_block-image__last {
+    position: absolute;
+    top: 2999px;
+    left: -43px;
+}
+}
+@media screen and (max-width: 320px){
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+ width:320px;
+    margin: 0 auto;
+    background-color: #202024;
+
+}
+    div {
+  box-sizing: border-box; }
+p {
+  font-family: Roboto, sans-serif; }
+    .header{
+       /*margin-left: 12px;
+        margin-top: 14px;*/
+         width: 297px;
+        height: 11px;
+        /*margin-bottom: 11px;*/
+    }
+    .header p{
+        font-size: 12px;
+        font-weight: 300;
+        color:rgba(255, 255, 255, 0.6);
+        line-height: 14px;
+       letter-spacing: 0.1em;
+        text-align: center;
+    width: 297px;
+    height: 11px;
+    margin-top: 14px;
+    margin-left: 12px;
+    margin-bottom: 11px;
+    }
+    hr{
+        border:1px solid rgba(255, 255, 255, 0.2);
+    }
+     .header hr{
+     margin: 0px;
+         width: 320px;
+    height: 0px;
+    }
+    .first-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 7px;
+    }
+    .first-section_text__top{
+        font-size: 20px;
+        font-weight: 300;
+        color:rgba(255, 255, 255, 0.6);
+        text-align: center;
+        letter-spacing: 0.1em;
+        margin-bottom: 0px;
+        margin-top: 7px;
+        width: 297px;
+    height: 17px;
+    }
+    .first-section_img__bottom {
+  width: 225px;
+    opacity: 0.2;
+    position: absolute;
+    left: 48px;
+    top: 84px;
+}
+    .first-section_img__top{
+    width: 137px;
+height: 137px;
+    border-radius: 50%;
+    position: absolute;
+    left: 92px;
+top: 128px;
+}
+    .first-section_blick-image{
+        margin: 0px;
+        position: absolute;
+        top: -7px;
+        left: -17px;
+    width: 382px;
+    height: 402px;
+    z-index: -1;
+       
+    }
+    .first-section_questions-text{
+        color:#F6C866;
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 25px;
+        width: 288px;
+        height: 75px;
+        margin-top: 249px;
+        margin-bottom: 23px;
+        margin-left: 17px;
+        text-align: center;
+    }
+    .first-section_questions-text__great{
+        text-transform: uppercase;
+    }
+    button{
+        border-radius: 50px;
+        width:179px;
+        height: 40px;
+        background: linear-gradient(90deg, rgba(246, 200, 102, 0.9) -6.2%, rgba(254, 173, 53, 0.9) 100%);
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #fff;
+    }
+    .first-section_text__bottom{
+         font-size: 12px;
+        font-weight: 300;
+        color:rgba(255, 255, 255, 0.6);
+        line-height: 14px;
+       letter-spacing: 0.1em;
+        margin: 0px;
+        width:273px;
+        height: 35px;
+        text-align: center;
+    }
+    .second-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .second-section_block{
+        border: 1px solid #FFFFFF;
+        border-radius: 3px;
+        width: 255px;
+        height: 252px;
+        margin-top: 58px;
+    }
+    .second-section_block img{
+        width: 78px;
+            height: 78px;
+        margin-left: 94px;
+        margin-top: -39px;
+        
+    }
+    .second-section_block p{
+        color:#fff;
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 25px;
+        text-align: center;
+        width: 210px;
+        height: 162px;
+        margin-left: 26px;
+        margin-top: 20px;
+    margin-bottom: 0px;
+    }
+    .text-span__yellow{
+        color:#F6C866;
+    }
+    .third-section{
+        height: 331px;
+        margin-top: 40px;
+        width: 320px;
+    }
+    .third-section img{
+        height: 331px;
+        width: 320px;
+        background-color: rgba(0, 162, 255, 0);
+        opacity: 0.6;
+          margin-left: 0px;
+    }
+    .third-section p{
+        width: 219px;
+        height: 149px;
+        text-align: center;
+        font-size: 16px;
+         line-height: 25px;
+        font-weight: normal;
+        position: absolute;
+        top:1019px;
+        left:51px;
+        color: #fff;
+        opacity: 0.6;
+    }
+    .fourth-section{
+        margin-top: 53px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .fourth-section_text-question{
+        text-transform: uppercase;
+        color:#F6C866;
+        font-size: 16px;
+        width:288px;
+        height: 19px;
+        text-align: center;
+        line-height: 19px;
+        margin-top: 0px;
+        margin-bottom: 27px;
+        
+    }
+    .fourth-section_number-question__first{
+        margin:0px;
+      color: rgba(255, 255, 255, 0.6);
+        font-size: 12px;
+        font-weight: 300;
+        line-height: 14px;
+        letter-spacing: 0.1em;
+    }
+    .five-section{
+        margin-top: 61px;
+        display: flex;
+        flex-direction: column;
+    
+    }
+    .five-section_block{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .five-section_block p{
+       font-family: Bad Script;
+        font-size: 20px;
+        line-height: 28px;
+        font-weight: normal;
+        color:#fff;
+        text-align: center;
+        width: 235px;
+        height: 84px;
+        margin-left: 43px;
+        margin-top: 37px;
+        margin-bottom: 33.25px;
+    }
+    .five-section_block-image__first{
+        position: absolute;
+        top:1523.97px;
+        left: 260px;
+        transform: rotate(-9.61deg);
+    }
+     .five-section_block-image__first img{
+      width: 83.64px;
+height: 44.13px;
+    }
+    
+    
+    .five-section_block-image__last{
+        position: absolute;
+       top:1687px;
+        left:-16px;
+    }
+      .five-section_block-image__last img{
+        width: 52px;
+          height: 51.95px;
+    }
+    .footer{
+       margin-top: 69.75px;
+        display: block;
+    }
+    .footer p{
+        margin: 0px;
+        padding-left: 13px;
+        font-size: 7px;
+        line-height: 9px;
+        letter-spacing: 3px;
+        text-align: center;
+        color: #9D9D9D;
+        width: 294px;
+        height: 27px;  
+        display: block;
+    }
+    .header-ifone3, header-ifone4{
+        display: block;
+    }
+    
+    .header-ifone3 p{
+        font-family: Bad Script;
+        font-weight: normal;
+        font-size: 14px;
+        color:#fff;
+        opacity: 0.6;
+        text-align: center;
+        line-height: 20px;
+        width: 235px;
+        height: 80px;
+        margin: 0px;
+        padding-top: 21px;
+        padding-left: 43px;
+        padding-bottom: 23px;
+    
+    }
+    .header-ifone3 hr, .header-ifone4 hr, {
+        margin: 0px;
+    }
+    
+     .header-ifone3 img{
+        position: absolute;
+         top:67px;
+         left:257px;
+         transform: rotate(-9.61deg);
+         width: 83.64px;
+height: 44.13px;
+    }
+    
+    .ifone3-section, .ifone4-section{
+      display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 36px;
+    }
+     .ifone3-section p{
+      text-transform: uppercase;
+    font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+      color: #F6C866;
+         margin: 0px;
+         width: 288px;
+         height: 50px;
+         padding-bottom: 40px;
+         padding-left: 16px;
+         text-align: center;
+    }
+    .ifone3-footer{
+        display: block;
+   margin-top: 36px; 
+        margin-bottom: 0px;
+    }
+     .ifone3-footer img, .ifone7-footer img{
+        position: absolute;
+         top:482px;
+         left: -10px;
+         width: 52px;
+    height: 51.95px;
+    }
+      .ifone3-footer p, {
+     font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+letter-spacing: 0.1em;
+color: rgba(255, 255, 255, 0.6);
+          margin-bottom: 46px;
+          margin-top: 0px;
+    }
+    .ifone7-footer{
+          margin-bottom: 46px;
+          margin-top: 0px;
+        margin-left: 24px;
+    }
+    .ifone7-footer p{
+     font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+letter-spacing: 0.1em;
+color: rgba(255, 255, 255, 0.6);
+         margin: 0px;
+        width: 273px;
+        height: 16px;
+    }
+    
+    .header-ifone4 p{
+        font-family: Bad Script;
+        font-weight: normal;
+        font-size: 14px;
+        color:#fff;
+        opacity: 0.6;
+        text-align: center;
+        line-height: 20px;
+        width: 235px;
+        height: 40px;
+        margin: 0px;
+        padding-top: 47px;
+        padding-left: 43px;
+        padding-bottom: 37px;
+    }
+    .header-ifone4 img{
+         position: absolute;
+         top:80.97px;
+         left:257px;
+         transform: rotate(-9.61deg);
+    }
+    .ifone4-section p{
+      text-transform: uppercase;
+    font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+      color: #F6C866;
+         margin: 0px;
+         width: 234px;
+         height: 50px;
+         padding-bottom: 40px;
+         padding-left: 43px;
+         text-align: center;
+    }
+    .ifone4-section_form{
+       display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 220px;
+            justify-content: space-between;
+    }
+    .ifone4-section_select-form{
+        background:  linear-gradient(90deg, rgba(228, 228, 228, 0.9) -6.2%, rgba(203, 203, 203, 0.9) 100%);
+        border-radius: 50px;
+        width: 179px;
+height: 40px; 
+        font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+    }
+    .ifone4-section_form button{
+        border-radius: 50px;
+        width:179px;
+        height: 40px;
+        background: linear-gradient(90deg, rgba(246, 200, 102, 0.9) -6.2%, rgba(254, 173, 53, 0.9) 100%);
+        margin-bottom: 0px;
+        font-size: 14px;
+        text-align: center;
+        color: #fff;
+    }
+    .ifone13-header, .ifone7-header, .ifone8-header, .ifone9-header{
+        margin-top: 24px;
+        margin-left: 31px;
+        width: 259px;
+        height: 84px;
+        background-color: #fff;
+        border-radius: 5px;
+    }
+    .ifone8-header p {
+    width: 235px;
+    height: 60px;
+    margin: 0px;
+    padding: 11px 12px 13px 12px;
+    font-size: 14px;
+    font-family: Bad Script;
+    line-height: 20px;
+    text-align: center;
+    color: #202024;
+}
+    
+.ifone13-header p{
+width: 232px;
+height: 72px;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+    text-align: center;
+    margin: 0px;
+    padding: 6px 14px 6px 13px;
+    }
+    
+    .ifone7-header p{
+        width: 235px;
+height: 40px;
+        margin: 0px;
+        padding: 23px 12px 21px 12px;
+        font-size: 14px;
+        font-family: Bad Script;
+line-height: 20px;
+text-align: center;
+color: #202024;
+    }
+    
+    .ifone9-header p{
+        width: 235px;
+height: 60px;
+        margin: 0px;
+        padding: 12px;
+        font-size: 14px;
+        font-family: Bad Script;
+line-height: 20px;
+text-align: center;
+color: #202024;
+    }
+    .ifone13-header_span{
+        font-weight: bold;
+    }
+    .ifone13-header_div{
+        width: 17px;
+height: 17px;
+        background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+    }
+    .ifone13-section__first{
+        margin-top: 51px;/*34+17*/
+        margin-left: 51px;
+        width: 219px;
+height: 76px;
+    }
+     .ifone13-section__first p{
+       font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+        text-align: center;
+        color: #fff;
+         margin: 0px;
+    }
+    .ifone13-section__second{
+        width: 259px;
+height: 172px;
+        margin-left: 31px;
+        border: 1px solid #FFFFFF;
+        border-radius: 3px;
+    }
+    .ifone13-section__second p{
+        width: 229px;
+height: 151px;
+        margin: 0px;
+        padding: 13px 15px 8px 15px;
+        font-size: 16px;
+line-height: 25px;
+        text-align: center;
+        color: #F6C866;
+    }
+    .ifone13-section__second span{
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .ifone13-section__third{
+        margin-top: 19px;
+        margin-left: 43px;
+        width: 233px;
+        height: 64px;
+    }
+     .ifone13-section__third p{
+       margin: 0px;
+        width: 233px;
+        height: 64px;
+         font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+         text-align: center;
+         color: #fff;
+    }
+    .ifone13-button{
+        width: 238.01px;
+height: 48px;
+        margin-left: 39px;
+        margin-top: 21px;
+        margin-bottom: 0px;
+        background: linear-gradient(90deg, rgba(76, 217, 100, 0.9) -6.2%, rgba(50, 185, 73, 0.9) 100%);
+border-radius: 50px;
+    }
+    
+    .animation-conteiner{
+        margin-top: 248px;
+        margin-left: 155.97px;
+    }
+    .animation_loading{
+        width: 7.06px;
+        height: 13.54px;
+        border-radius: 5px;
+    }
+  
+    .loading-text{
+       position: absolute;
+        top:348px;
+        left: 24px;
+        text-align: center;
+        width: 273px;
+        height: 16px;
+        font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+        letter-spacing: 0.1em;
+        color: rgba(255, 255, 255, 0.6);
+    }
+    .my_result{
+        margin-top: 15px;
+        margin-left: 31px;
+        width:280px;
+        height: auto;
+    }
+    .my_result p{
+       text-align: center;
+        color:#F6C866;
+        font-size: 14px;
+        width: 270px;
+    }
+    .header-ifone6{
+        margin-top: 35px;
+        margin-left: 43px;
+    }
+    .header-ifone6 p{
+        margin: 0px;
+        width: 235px;
+        height: 60px;
+        font-family: Bad Script;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: #FFFFFF;
+opacity: 0.6;
+    }
+   
+    .header-ifone6 hr{
+        margin-top: 29.47px;
+        margin-bottom: 0px;
+    }
+    .ifone7-header hr, .ifone8-header hr,  .ifone9-header hr{
+        margin-top: 6px;
+        margin-bottom: 0px;
+        width: 320px;
+    }
+    .header-ifone6 img, .ifone7-header img, .ifone8-header img, .ifone9-header img{
+         position: absolute;
+         top:67px;
+         left:257px;
+         transform: rotate(-9.61deg);
+    }
+    .ifone6-section, {
+        margin-top: 36px;
+    }
+    
+    .ifone7-section{
+        margin-top: 52px;
+    }
+    .ifone6-section p{
+        margin-top: 0px;
+        margin-left: 31px;
+        margin-bottom: 40px;
+        width: 258px;
+height: 50px;
+        font-size: 16px;
+line-height: 25px;
+text-align: center;
+text-transform: uppercase;
+color: #F6C866;
+    }
+    
+    .ifone7-section p {
+    margin-top: 0px;
+    margin-left: 9px;
+    margin-bottom: 36px;
+    width: 302px;
+    height: 100px;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #F6C866;
+}
+    .ifone6-block_div, .ifone7-block_div{
+        margin-left: 68px;
+    }
+    
+    
+    .ifone12-section {
+      margin-top: 364px;
+ 
+    }
+    .ifone12-section img{
+       position: absolute;
+left: 87px;
+top: 204px;
+ 
+    }
+    .ifone12-section_p{
+        margin: 0px;
+        width: 273px;
+        height: 16px;
+        font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+letter-spacing: 0.1em;
+color: rgba(255, 255, 255, 0.6);
+    }
+    
+    #slider{
+        width: 259px;
+height: 4px;
+        margin-left: 31px;
+        background: #FFFFFF;
+border-radius: 5px;
+        margin-bottom: 52px;
+    }
+    .statr-number{
+        display: block;
+        margin-left: 24px;
+    }
+    .result-number0, .result-number1, .result-number2, .result-number3, .result-number4,.result-number5,.result-number6{
+        display: none;
+        font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: 0.1em;
+        margin-bottom: 12px;
+        margin-top: 0px;
+        text-align: center;
+color: rgba(255, 255, 255, 0.6);
+        width:273px;
+    }
+}
